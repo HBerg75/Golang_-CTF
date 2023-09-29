@@ -7,4 +7,7 @@ Good luck !
 
 Entrypoint : 10.49.122.144
 
-PATH  METHOD  BODY  /ping  GET
+PATH  METHOD  BODY
+/ping  GET 
+/signup  POST
+etc ...
